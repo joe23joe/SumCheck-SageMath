@@ -1,4 +1,6 @@
 # SumCheck-SageMath
+These are solutions for ZKsecurity exercises in the SumCheck tutorial
+
 Some of my paper work for the sumcheck protocol (probably will organize it and rewrite it in a blog when I get some time)
 
 <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/157fa1c3-2afb-49a9-9ae9-0c352185e22b" />
